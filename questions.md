@@ -19,7 +19,7 @@ If I had more time, I would add:
 One of the useful recent features is primary constructors, which reduce boilerplate when dependencies are injected into classes.
 
 Example:
-
+```csharp
  public class CryptoQuoteService(ICoinMarketCapClient _coinMarketCapClient, IExchangeRatesClient _exchangeRatesClient) : ICryptoQuoteService
  {
 
