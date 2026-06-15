@@ -62,7 +62,7 @@ Example:
                  throw new ExternalApiException($"Required exchange rate '{currency}' was not returned.");
      }
  }
- `
+ ```
  
  ## 3. How would you track down a performance issue in production? Have you ever had to do this?
  
