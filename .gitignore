@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/AvestaCryptoQuotes.Api/bin/Debug/net9.0
+/src/AvestaCryptoQuotes.Api/obj
+/tests/AvestaCryptoQuotes.Tests/bin/Debug/net9.0
+/tests/AvestaCryptoQuotes.Tests/obj
