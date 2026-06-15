@@ -1,0 +1,6 @@
+@AvestaCryptoQuotes.Api_HostAddress = http://localhost:5191
+
+GET {{AvestaCryptoQuotes.Api_HostAddress}}/api/crypto-quotes/BTC
+Accept: application/json
+
+###
