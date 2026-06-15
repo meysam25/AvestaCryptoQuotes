@@ -73,7 +73,7 @@ Example:
  sql profiler
  using seq for log and reading logs for error and warning 
  
- Yes, I have investigated performance issues before. The most common causes were slow database queries, missing indexes, inefficient loops and latency from external services or external api timeout or cetifcation validation timeout, iis config, sql connection pool, iis connection pool, wrong query split in db context, multiple transaction probelm.
+ Yes, I have investigated performance issues before. The most common causes were slow database queries, missing indexes, inefficient loops and latency from external services or external api timeout or cetifcation validation timeout, iis config, sql connection pool, iis connection pool, wrong query split in db context, multiple transaction probelm, heavy select and table lock problem.
  
  
  ## 4. What was the latest technical book you have read or tech conference
